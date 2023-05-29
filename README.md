@@ -1,2 +1,2 @@
 # development
-This repo consider all my pet-projects code
+This repo consider Ph.D data'n'code
